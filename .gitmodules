@@ -1,0 +1,10 @@
+[submodule "lib/BIGTREETECH-TFT35-V3.0"]
+	path = lib/BIGTREETECH-TFT35-V3.0
+	url = https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0.git
+[submodule "lib/BIGTREETECH-SKR-V1.3"]
+	path = lib/BIGTREETECH-SKR-V1.3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3.git
+[submodule "Marlin"]
+	path = Marlin
+	url = git@github.com:cscashby/Marlin.git
+	branch = frankendstein-2.1.x
