@@ -8,3 +8,9 @@
 	path = Marlin
 	url = git@github.com:cscashby/Marlin.git
 	branch = frankendstein-2.1.x
+[submodule "lib/BIGTREETECH-TouchScreenFirmware"]
+	path = lib/BIGTREETECH-TouchScreenFirmware
+	url = https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware.git
+[submodule "lib/Configurations"]
+	path = lib/Configurations
+	url = https://github.com/MarlinFirmware/Configurations.git
