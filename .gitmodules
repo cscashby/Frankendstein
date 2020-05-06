@@ -14,3 +14,6 @@
 [submodule "lib/Configurations"]
 	path = lib/Configurations
 	url = https://github.com/MarlinFirmware/Configurations.git
+[submodule "lib/BIGTREETECH-TMC2209-V1.2"]
+	path = lib/BIGTREETECH-TMC2209-V1.2
+	url = https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2.git
