@@ -1,0 +1,4 @@
+Sources for Filament Guide, Sensor & Cable chain for the CR-10, Ender 3 with MK8 Aluminium Extruder
+
+Ender 3 Cable Chain E bracket mount (http://www.thingiverse.com/thing:3190998)
+Filament Guide, Sensor, Cleaner & Cable management for the CR-10 with MK8 Aluminium Extruder (http://www.thingiverse.com/thing:2513373)
