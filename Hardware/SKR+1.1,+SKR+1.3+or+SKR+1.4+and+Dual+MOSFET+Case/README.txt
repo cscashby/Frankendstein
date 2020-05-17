@@ -1,0 +1,1 @@
+SKR 1.1, SKR 1.3 or SKR 1.4 and Dual MOSFET Case by Thorinair on Thingiverse: https://www.thingiverse.com/thing:4338524
